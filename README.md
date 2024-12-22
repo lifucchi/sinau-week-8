@@ -34,7 +34,7 @@ A RESTful API for managing restaurant reservations. Built using **Express.js**, 
 
    ```bash
    git clone <repository-url>
-   cd restaurant-reservation-api
+   cd sinau-week-8
    ```
 
 2. **Install Dependencies:**
